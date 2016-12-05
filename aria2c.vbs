@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "aria2c.exe --enable-rpc --rpc-listen-all --show-console-readout=false --summary-interval=0",0,True
