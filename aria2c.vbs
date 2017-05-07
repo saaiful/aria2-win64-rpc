@@ -1,1 +1,1 @@
-CreateObject("WScript.Shell").Run "aria2c.exe --enable-rpc --rpc-listen-all --show-console-readout=false --summary-interval=0",0,True
+CreateObject("WScript.Shell").Run "%SYSTEMDRIVE%\aria2\aria2c.exe --enable-rpc --rpc-listen-all --show-console-readout=false --summary-interval=0",0,True
